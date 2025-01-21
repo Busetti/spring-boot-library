@@ -1,4 +1,4 @@
-package com.guru.spring_boot_library.util;
+package com.guru.util;
 
 import java.util.ArrayList;
 import java.util.List;

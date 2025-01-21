@@ -1,6 +1,6 @@
 package com.guru.spring_boot_library;
 
-import com.guru.spring_boot_library.util.GenericUtils;
+import com.guru.util.GenericUtils;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
